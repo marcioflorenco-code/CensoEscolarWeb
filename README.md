@@ -1,3 +1,3 @@
-# LINK para CensoEscolarDataApp
+# LINK 
 
 https://github.com/marcioflorenco-code/CensoEscolarDataApp
